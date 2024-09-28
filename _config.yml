@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: Sweets 4 All!
+description: Bookmark this to keep an eye on my portfolio updates!
+
 # Where things are
 source              : .
 destination         : ./_site
